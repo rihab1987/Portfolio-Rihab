@@ -1,0 +1,51 @@
+[
+    {
+        "image": "booki.webp",
+        "title": "Booki",
+        "text": "Dans ce projet, j'ai participé à la réalisation du site Booki en suivant précisément une maquette Figma. J'ai utilisé HTML et CSS (Flexbox) pour construire une interface responsive, assurant une navigation agréable sur tous types d'écrans. Chaque élément a été optimisé pour respecter les standards du web, avec une validation réussie via les outils du W3C..",
+        "link": "https://github.com/rihab1987/BOOKI"
+    },
+    {
+        "image": "Riding_cities.webp",
+        "title": "Riding Cities",
+        "text": "Dans ce projet, j'ai construit la structure des pages web en HTML et appliqué le style avec CSS, en suivant les maquettes fournies sur Figma. En travaillant avec Visual Studio Code, j'ai renforcé mes bases en développement web tout en intégrant des principes d’ergonomie et d’accessibilité pour offrir des interfaces à la fois intuitives et esthétiques..",
+        "link": "https://github.com/rihab1987/site-Riding-Citites"
+    },
+    {
+        "image": "kasa.webp",
+        "title": "Kasa",
+        "text": "Dans ce projet, j'ai développé le front-end de l'application Kasa en utilisant React et Create React App. J'ai conçu des composants modulaires, mis en place la navigation avec React Router, intégré les données provenant d'API, et apporté des animations CSS pour améliorer l'expérience utilisateur. Ce projet renforce ma capacité à comprendre et tester des applications web modernes avec rigueur..",
+        "link": "https://github.com/rihab1987/KASA"
+    },
+    {
+        "image": "Print_it.webp",
+        "title": "Print It",
+        "text": "Dans ce projet, j'ai développé un carrousel interactif en JavaScript, tout en utilisant GitHub pour versionner et sécuriser mon travail. Cette expérience m'a permis de consolider mes bases en JavaScript en créant des fonctionnalités dynamiques et interactives adaptées aux besoins du site.",
+        "link": "https://github.com/rihab1987/print-it-"
+
+    },
+    {
+        "image": "Sophie-Bluel.webp",
+        "title": "Sophie Bluel",
+        "text": "Dans ce projet, j'ai développé le front-end du site d'une architecte d’intérieur en utilisant JavaScript. J'ai manipulé le DOM, géré des événements et intégré des données via une API. Cette expérience a renforcé ma maîtrise des interfaces dynamiques. J'ai également utilisé Figma, Visual Studio Code et GitHub pour mener à bien le développement.",
+        "link": "https://github.com/rihab1987/Sophie-Bluel"
+    },
+    {
+        "image": "Menu_Maker.webp",
+        "title": "Menu Maker",
+        "text": "Dans ce projet, j'ai planifié le développement d'un site web en rédigeant les spécifications techniques et en organisant le suivi avec Notion. Grâce à une veille technologique régulière via Wakelet, j'ai actualisé mes connaissances. La présentation de la solution technique m'a permis de prouver ma capacité à transformer les besoins du projet en solutions concrètes et adaptées.",
+        "link": "https://github.com/rihab1987/Menu-Maker-by-Qwenta"
+    },
+    {
+        "image": "Tomsen.webp",
+        "title": "Tomsen",
+        "text": "Dans ce projet, j'ai analysé les spécifications fonctionnelles de l'application, identifié les fonctionnalités clés à tester et élaboré une stratégie de test adaptée aux méthodes agiles. J'ai organisé le suivi sur Notion et rédigé un cahier de recette détaillé. Cette expérience a renforcé mes compétences en analyse, planification et documentation des tests pour assurer la qualité et la fiabilité du logiciel..",
+        "link": "https://github.com/rihab1987/TOMSEN-"
+    },
+    {
+        "image": "Eco_Bliss_Bath.webp",
+        "title": "Eco Bliss Bath",
+        "text": "Dans ce projet, j'ai automatisé les tests de l'application e-commerce Eco Bliss Bath en sélectionnant les scénarios critiques, en développant les scripts avec Cypress et en documentant rigoureusement les anomalies. Cette expérience a consolidé mes compétences en automatisation des tests et m'a sensibilisé à l'importance d'une documentation claire et précise pour garantir la qualité du produit.",
+        "link": "https://github.com/rihab1987/ECO-BLISS-BATH"
+    }
+]
