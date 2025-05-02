@@ -42,6 +42,9 @@ body {
 .navbarDark .nav-link {
   color: #fff !important;
 }
+.navbar-brand {
+    color: #c04a50 !important;
+}
 
 .navbarScroll.navbarDark {
     background-color: #c04a50;
