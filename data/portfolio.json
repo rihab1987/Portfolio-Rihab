@@ -14,7 +14,7 @@
       "alt": "Aperçu du projet Riding Cities"
     },
     {
-      "image": "kasa.webp",
+      "image": "Kasa.webp",
       "title": "Kasa",
       "text": "Dans ce projet, j'ai développé le front-end de l'application Kasa en utilisant React et Create React App. J'ai conçu des composants modulaires, mis en place la navigation avec React Router, intégré les données provenant d'API, et apporté des animations CSS pour améliorer l'expérience utilisateur. Ce projet renforce ma capacité à comprendre et tester des applications web modernes avec rigueur..",
       "link": "https://github.com/rihab1987/KASA",
