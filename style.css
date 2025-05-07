@@ -352,14 +352,19 @@ footer {
 
 /* ======= Responsive pour mobile (max-width: 767.98px) ======= */
 @media (max-width: 767.98px) {
-  
+  .container{
+    margin: 0.5rem;
+  }
+  #about .container.mt-4.pt-4{
+    margin: 0.5rem;
+  }
   .section-box {
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1rem ;
+    margin: 1rem ;
   }
   .section-box > .container {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
   }
   /* Hero section */
   .hero_title {
