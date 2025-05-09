@@ -1,23 +1,5 @@
 [
     {
-        "image": "html-css.webp",
-        "title": "HTML - CSS",
-        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
-        "alt": "Logo HTML - CSS"
-    },
-    {
-        "image": "js.webp",
-        "title": "javascript",
-        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
-        "alt": "Logo JavaScript"
-    },
-    {
-        "image": "react.webp",
-        "title": "React",
-        "text": "Création d’applications React, création de composants et manipulation de leur état",
-        "alt": "Logo React"
-    },
-    {
         "image": "gestion-de-projet.webp",
         "title": "Gestion de projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet",
@@ -34,5 +16,85 @@
         "title": "Test",
         "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
         "alt": "Logo Test"
+    },
+    {
+        "image": "cypress.webp",
+        "title": "Cypress",
+        "text": "Automatisation de tests E2E, tests de flux utilisateur, assertions sur le DOM et appels API",
+        "alt": "Logo Cypress"
+      },
+      
+    {
+        "image": "postman.webp",
+        "title": "Postman",
+        "text": "Test et automatisation de requêtes API REST, vérification des statuts, headers et corps de réponse",
+        "alt": "Logo Postman"
+      },
+      {
+        "image": "swagger.webp",
+        "title": "Swagger",
+        "text": "Exploration et documentation d’API, test des endpoints, validation des paramètres et réponses",
+        "alt": "Logo Swagger"
+      },
+      {
+        "image": "jira.webp",
+        "title": "Jira",
+        "text": "Suivi des tickets, planification des sprints, collaboration avec l’équipe produit et QA",
+        "alt": "Logo Jira"
+      },
+      {
+        "image": "api-testing.webp",
+        "title": "API Testing",
+        "text": "Conception de scénarios de tests pour endpoints REST, tests de validation, autorisation et erreurs",
+        "alt": "Logo API Testing"
+      },
+      {
+        "image": "docker.webp",
+        "title": "Docker",
+        "text": "Utilisé pour installer et exécuter des projets en local dans un environnement conteneurisé, facilitant les tests indépendamment du système hôte.",
+        "alt": "Logo Docker"
+      },
+      
+      {
+        "image": "vscode.webp",
+        "title": "Visual Studio Code",
+        "text": "Éditeur de code léger et puissant utilisé pour le développement web, le débogage, l'intégration avec Git et les extensions QA comme Cypress.",
+        "alt": "Logo Visual Studio Code"
+      },
+      {
+        "image": "git.webp",
+        "title": "Git",
+        "text": "Système de gestion de version distribué utilisé pour suivre les modifications, collaborer efficacement et maintenir l'historique des projets de test.",
+        "alt": "Logo Git"
+      },
+      {
+        "image": "github.webp",
+        "title": "GitHub",
+        "text": "Plateforme de gestion de code source utilisée pour héberger des projets, collaborer en équipe et automatiser les tests via des actions GitHub.",
+        "alt": "Logo GitHub"
+      },
+      
+      
+      
+      
+      
+      
+    {
+        "image": "html-css.webp",
+        "title": "HTML - CSS",
+        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
+        "alt": "Logo HTML - CSS"
+    },
+    {
+        "image": "js.webp",
+        "title": "javascript",
+        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
+        "alt": "Logo JavaScript"
+    },
+    {
+        "image": "react.webp",
+        "title": "React",
+        "text": "Création d’applications React, création de composants et manipulation de leur état",
+        "alt": "Logo React"
     }
 ]
