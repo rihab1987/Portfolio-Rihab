@@ -156,18 +156,19 @@ html, body {
   text-align: left;
   padding: 1rem 2rem;
 }
-.btn-outline-danger {
-  border: 2px solid #c04a50;
-  color: #c04a50;
+.btn-cv {
+  background-color: #c04a50;
+  color: white;
   font-weight: 600;
   padding: 0.75rem 1.5rem;
   border-radius: 10px;
-  transition: background-color 0.3s, color 0.3s;
+  border: none;
+  transition: background-color 0.3s ease;
 }
 
-.btn-outline-danger:hover {
-  background-color: #c04a50;
-  color: white;
+.btn-cv:hover {
+  background-color: #7c3838;
+  
 }
 
 
