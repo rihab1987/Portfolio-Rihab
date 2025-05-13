@@ -44,17 +44,18 @@ Ce site me permet de présenter mon profil, mes compétences, mes projets et d�
 
 ```
 .
-├── index.html
-├── style.css
-├── script/
-│   └── script.js
+.
 ├── data/
-│   ├── skills.json
-│   └── portfolio.json
+│ ├── portfolio.json
+│ └── skills.json
 ├── images/
-│   └── [images du site et des projets]
-├── CV_Rihab_Guissouma.pdf
-└── README.md
+│ ├── Images  
+├── script/
+│ └── script.js 
+├── CV_Rihab_Guissouma.pdf # CV téléchargeable depuis la page
+├── index.html
+├── README.md
+├── style.css
 ```
 
 ---
