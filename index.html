@@ -3,24 +3,26 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Portfolio de GUISSOUMA Rihab - Testeuse logiciel passionnée et rigoureuse. Découvrez mes compétences et projets.">
-    <title>Portfolio GUISSOUMA Rihab</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- Responsive design -->
+    <meta name="description" content="Portfolio de GUISSOUMA Rihab - Testeuse logiciel passionnée et rigoureuse. Découvrez mes compétences et projets."> <!-- Description pour le SEO -->
+    <title>Portfolio GUISSOUMA Rihab</title> <!-- Titre de la page -->
   
     <!-- Préconnexion pour Google Fonts (améliore LCP) -->
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;500;700&display=swap" rel="stylesheet"> <!-- Import Police Cormorant depuis Google Fonts -->
 
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <!-- Préconnexion pour Google Fonts pour gagner du temps au chargement -->
   
-    <!-- Bootstrap CSS -->
+    <!-- Bootstrap CSS --> <!-- Précharge la feuille de style Bootstrap (framework CSS utilisé pour le layout responsive et les composants). -->
     <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   
-    <!-- FontAwesome CSS -->
+    <!-- FontAwesome CSS --> <!-- Précharge la feuille de style FontAwesome (pour les icônes). -->
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   
-    <!-- Ton fichier CSS principal -->
+    <!-- Mon fichier CSS principal --> <!--Précharge ton propre fichier CSS, puis le charge normalement.
+💡 ?v=2 permet de forcer le navigateur à recharger la dernière version (évite le cache obsolète).-->
     <link rel="preload" href="style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="stylesheet" href="style.css?v=2">
+    <!-- Charge les scripts JavaScript de Bootstrap. Il est placé ici pour s’exécuter après le chargement du CSS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
 
@@ -32,14 +34,17 @@
 
     <!-- header -->
     <header>
+          <!-- Barre de navigation Bootstrap, sombre, collée en haut et modifiée au scroll -->
         <nav class="navbar navbar-expand-lg fixed-top navbar-dark navbarScroll">
             <div class="container">
                 <a class="navbar-brand" href="#">GUISSOUMA Rihab</a>
+                 <!-- Bouton burger pour afficher/masquer le menu sur mobile -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
+                 <!-- Contenu du menu qui s’ouvre/ferme -->
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item active">
@@ -70,6 +75,7 @@
         <section class="bgimage" id="home">
             <div class="container-fluid">
                 <div class="row">
+                     <!-- Texte centré au milieu de la bannière -->
                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text text-center">
                         <h1 class="hero_title">GUISSOUMA Rihab</h1>
                         <h2 class="hero_desc">Test logiciels</h2>
